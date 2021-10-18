@@ -152,7 +152,18 @@ legend {
   border: 0;
   padding: 0;
   white-space: normal; }
+.marginmap {
 
+  margin-top: 20px;
+  padding: 0px !important;
+
+
+}
+
+.marginmap iframe{
+  height: 300px;
+  padding: 0px !important;
+}
 button,
 input,
 select,
